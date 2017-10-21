@@ -1,3 +1,5 @@
 
 w2v_model
-.ipynb_checkpoints/train_word2vec-checkpoint.ipynb
+.ipynb_checkpoints/*
+*.tsv
+tensorboard/*
